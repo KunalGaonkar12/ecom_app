@@ -1,0 +1,10 @@
+
+
+A) For rider/delivery show the pickup and drop address
+B) Seller can list their services with appointment date for repair services
+C) Get phone contact access from user and store phone contacts in mysql db and show to admin all phone contacts
+D) Admin can block/release users from app
+
+// Notes
+All functions are working perfectly. And I tried my best to make it bugs free.
+You can change your baseurl at ApiHandler class.
